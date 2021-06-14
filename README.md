@@ -4,7 +4,7 @@
 ## Project Overview
 Placeholder
 
-## System Archiecture
+## System Architecture
 Placeholder
 
 ### Front-End Subsystem
