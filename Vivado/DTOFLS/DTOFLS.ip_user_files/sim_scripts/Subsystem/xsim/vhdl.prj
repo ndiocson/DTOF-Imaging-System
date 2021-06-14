@@ -1,0 +1,41 @@
+vhdl xil_defaultlib  \
+"../../../bd/Subsystem/ip/Subsystem_PmodOLED_0_0/Subsystem_PmodOLED_0_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_axi_dma_0_0/Subsystem_axi_dma_0_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_axi_gpio_1_0/sim/Subsystem_axi_gpio_1_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_axi_gpio_2_0/sim/Subsystem_axi_gpio_2_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_xbar_0/Subsystem_xbar_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_axi_vdma_0_0/Subsystem_axi_vdma_0_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_clk_wiz_0_0/Subsystem_clk_wiz_0_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_processing_system7_0_0/Subsystem_processing_system7_0_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_xbar_1/Subsystem_xbar_1_sim_netlist.vhdl" \
+"../../../../DTOFLS.gen/sources_1/bd/Subsystem/ipshared/d57c/src/ClockGen.vhd" \
+"../../../../DTOFLS.gen/sources_1/bd/Subsystem/ipshared/d57c/src/SyncAsync.vhd" \
+"../../../../DTOFLS.gen/sources_1/bd/Subsystem/ipshared/d57c/src/SyncAsyncReset.vhd" \
+"../../../../DTOFLS.gen/sources_1/bd/Subsystem/ipshared/d57c/src/DVI_Constants.vhd" \
+"../../../../DTOFLS.gen/sources_1/bd/Subsystem/ipshared/d57c/src/OutputSERDES.vhd" \
+"../../../../DTOFLS.gen/sources_1/bd/Subsystem/ipshared/d57c/src/TMDS_Encoder.vhd" \
+"../../../../DTOFLS.gen/sources_1/bd/Subsystem/ipshared/d57c/src/rgb2dvi.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_rgb2dvi_0_0/sim/Subsystem_rgb2dvi_0_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_rst_clk_wiz_0_148M_0/sim/Subsystem_rst_clk_wiz_0_148M_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_v_axi4s_vid_out_0_0/Subsystem_v_axi4s_vid_out_0_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_v_tc_0_0/sim/Subsystem_v_tc_0_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_Input_Debounce_0_0/sim/Subsystem_Input_Debounce_0_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_Input_Debounce_0_1/sim/Subsystem_Input_Debounce_0_1.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_Input_Debounce_1_0/sim/Subsystem_Input_Debounce_1_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_Input_Debounce_1_1/sim/Subsystem_Input_Debounce_1_1.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_Input_Debounce_1_2/sim/Subsystem_Input_Debounce_1_2.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_Input_Debounce_1_3/sim/Subsystem_Input_Debounce_1_3.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_Input_Debounce_1_4/sim/Subsystem_Input_Debounce_1_4.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_axi_gpio_1_1/sim/Subsystem_axi_gpio_1_1.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_axi_gpio_1_2/sim/Subsystem_axi_gpio_1_2.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_axi_gpio_1_3/sim/Subsystem_axi_gpio_1_3.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_axi_gpio_4_0/sim/Subsystem_axi_gpio_4_0.vhd" \
+"../../../bd/Subsystem/ip/Subsystem_axi_gpio_4_1/sim/Subsystem_axi_gpio_4_1.vhd" \
+"d:/PERSONAL/Projects/DTOFLS/DTOFLS.gen/sources_1/bd/Subsystem/ip/Subsystem_imageProcessTop_0_0/Subsystem_imageProcessTop_0_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_auto_us_0/Subsystem_auto_us_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_auto_us_1/Subsystem_auto_us_1_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_auto_pc_0/Subsystem_auto_pc_0_sim_netlist.vhdl" \
+"../../../bd/Subsystem/ip/Subsystem_auto_pc_1/Subsystem_auto_pc_1_sim_netlist.vhdl" \
+"../../../bd/Subsystem/sim/Subsystem.vhd" \
+
+nosort

@@ -1,0 +1,405 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sat Apr 10 14:20:17 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_imageProcessTop_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Subsystem_imageProcessTop_0_0 (xilinx.com:user:imageProcessTop:1.0) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Fri Apr  9 11:20:06 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_imageProcessTop_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Subsystem_imageProcessTop_0_0 (xilinx.com:user:imageProcessTop:1.0) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Apr  8 22:54:31 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_imageProcessTop_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Subsystem_imageProcessTop_0_0 (xilinx.com:user:imageProcessTop:1.0) from (Rev. 10) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Apr  8 22:19:20 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_imageProcessTop_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Subsystem_imageProcessTop_0_0 (xilinx.com:user:imageProcessTop:1.0) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Apr  8 21:53:13 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_imageProcessTop_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Subsystem_imageProcessTop_0_0 (xilinx.com:user:imageProcessTop:1.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Thu Apr  8 20:13:21 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_imageProcessTop_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Subsystem_imageProcessTop_0_0 (xilinx.com:user:imageProcessTop:1.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sun Mar 28 09:58:16 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_Image_Filter_Top_0_1'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of Subsystem_Image_Filter_Top_0_1 (xilinx.com:user:Image_Filter_Top:1.0) from (Rev. 2) to (Rev. 4)
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'Subsystem_Image_Filter_Top_0_1'.
+
+
+-Upgrade has added interface 'intr_out' (xilinx.com:signal:interrupt:1.0)
+
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sat Mar 27 23:41:38 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_Image_Filter_Top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of Subsystem_Image_Filter_Top_0_0 (xilinx.com:user:Image_Filter_Top:1.0 (Rev. 2)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sat Mar 27 19:58:05 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_Image_Filter_Top_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of Subsystem_Image_Filter_Top_0_0 (xilinx.com:user:Image_Filter_Top:1.0) from (Rev. 8) to (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'Subsystem_Image_Filter_Top_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'filter_sel'
+
+
+3. Customization warnings
+-------------------------
+
+Parameter 'NUM_FILTERS' is no longer present on the upgraded IP 'Subsystem_Image_Filter_Top_0_0', and cannot be set to '3'
+
+
+4. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:user:Image_Filter_Top:1.0 -user_name Subsystem_Image_Filter_Top_0_0
+set_property -dict "\
+  CONFIG.BUFFER_WIDTH {640} \
+  CONFIG.Component_Name {Subsystem_Image_Filter_Top_0_0} \
+  CONFIG.DATA_WIDTH {8} \
+  CONFIG.KERNEL_HEIGHT {3} \
+  CONFIG.KERNEL_WIDTH {3} \
+  CONFIG.axi_clk.ASSOCIATED_BUSIF {m_axis:s_axis} \
+  CONFIG.axi_clk.ASSOCIATED_RESET {} \
+  CONFIG.axi_clk.CLK_DOMAIN {/clk_wiz_0_clk_out1} \
+  CONFIG.axi_clk.FREQ_HZ {148500000} \
+  CONFIG.axi_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.axi_clk.INSERT_VIP {0} \
+  CONFIG.axi_clk.PHASE {0.0} \
+  CONFIG.m_axis.CLK_DOMAIN {/clk_wiz_0_clk_out1} \
+  CONFIG.m_axis.FREQ_HZ {148500000} \
+  CONFIG.m_axis.HAS_TKEEP {0} \
+  CONFIG.m_axis.HAS_TLAST {0} \
+  CONFIG.m_axis.HAS_TREADY {1} \
+  CONFIG.m_axis.HAS_TSTRB {0} \
+  CONFIG.m_axis.INSERT_VIP {0} \
+  CONFIG.m_axis.LAYERED_METADATA {undef} \
+  CONFIG.m_axis.PHASE {0.0} \
+  CONFIG.m_axis.TDATA_NUM_BYTES {1} \
+  CONFIG.m_axis.TDEST_WIDTH {0} \
+  CONFIG.m_axis.TID_WIDTH {0} \
+  CONFIG.m_axis.TUSER_WIDTH {0} \
+  CONFIG.s_axis.CLK_DOMAIN {/clk_wiz_0_clk_out1} \
+  CONFIG.s_axis.FREQ_HZ {148500000} \
+  CONFIG.s_axis.HAS_TKEEP {0} \
+  CONFIG.s_axis.HAS_TLAST {0} \
+  CONFIG.s_axis.HAS_TREADY {1} \
+  CONFIG.s_axis.HAS_TSTRB {0} \
+  CONFIG.s_axis.INSERT_VIP {0} \
+  CONFIG.s_axis.LAYERED_METADATA {undef} \
+  CONFIG.s_axis.PHASE {0.0} \
+  CONFIG.s_axis.TDATA_NUM_BYTES {1} \
+  CONFIG.s_axis.TDEST_WIDTH {0} \
+  CONFIG.s_axis.TID_WIDTH {0} \
+  CONFIG.s_axis.TUSER_WIDTH {0} " [get_ips Subsystem_Image_Filter_Top_0_0]
+
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sat Mar 27 19:10:11 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Subsystem_Image_Filter_Top_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of Subsystem_Image_Filter_Top_0_0 (xilinx.com:user:Image_Filter_Top:1.0) from (Rev. 7) to (Rev. 8)
+
+After upgrade, an IP may have parameter differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality.
+
+2. Customization warnings
+-------------------------
+
+Parameter 'CLK_FREQ' is no longer present on the upgraded IP 'Subsystem_Image_Filter_Top_0_0', and cannot be set to '100000000'
+
+
+3. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:user:Image_Filter_Top:1.0 -user_name Subsystem_Image_Filter_Top_0_0
+set_property -dict "\
+  CONFIG.BUFFER_WIDTH {640} \
+  CONFIG.Component_Name {Subsystem_Image_Filter_Top_0_0} \
+  CONFIG.DATA_WIDTH {8} \
+  CONFIG.KERNEL_HEIGHT {3} \
+  CONFIG.KERNEL_WIDTH {3} \
+  CONFIG.NUM_FILTERS {3} \
+  CONFIG.axi_clk.ASSOCIATED_BUSIF {m_axis:s_axis} \
+  CONFIG.axi_clk.ASSOCIATED_RESET {} \
+  CONFIG.axi_clk.CLK_DOMAIN {/clk_wiz_0_clk_out1} \
+  CONFIG.axi_clk.FREQ_HZ {148500000} \
+  CONFIG.axi_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.axi_clk.INSERT_VIP {0} \
+  CONFIG.axi_clk.PHASE {0.0} \
+  CONFIG.m_axis.CLK_DOMAIN {/clk_wiz_0_clk_out1} \
+  CONFIG.m_axis.FREQ_HZ {148500000} \
+  CONFIG.m_axis.HAS_TKEEP {0} \
+  CONFIG.m_axis.HAS_TLAST {0} \
+  CONFIG.m_axis.HAS_TREADY {1} \
+  CONFIG.m_axis.HAS_TSTRB {0} \
+  CONFIG.m_axis.INSERT_VIP {0} \
+  CONFIG.m_axis.LAYERED_METADATA {undef} \
+  CONFIG.m_axis.PHASE {0.0} \
+  CONFIG.m_axis.TDATA_NUM_BYTES {1} \
+  CONFIG.m_axis.TDEST_WIDTH {0} \
+  CONFIG.m_axis.TID_WIDTH {0} \
+  CONFIG.m_axis.TUSER_WIDTH {0} \
+  CONFIG.s_axis.CLK_DOMAIN {/clk_wiz_0_clk_out1} \
+  CONFIG.s_axis.FREQ_HZ {148500000} \
+  CONFIG.s_axis.HAS_TKEEP {0} \
+  CONFIG.s_axis.HAS_TLAST {0} \
+  CONFIG.s_axis.HAS_TREADY {1} \
+  CONFIG.s_axis.HAS_TSTRB {0} \
+  CONFIG.s_axis.INSERT_VIP {0} \
+  CONFIG.s_axis.LAYERED_METADATA {undef} \
+  CONFIG.s_axis.PHASE {0.0} \
+  CONFIG.s_axis.TDATA_NUM_BYTES {1} \
+  CONFIG.s_axis.TDEST_WIDTH {0} \
+  CONFIG.s_axis.TID_WIDTH {0} \
+  CONFIG.s_axis.TUSER_WIDTH {0} " [get_ips Subsystem_Image_Filter_Top_0_0]
+
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sat Mar 27 18:03:14 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Back_End_Image_Filter_Top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of Back_End_Image_Filter_Top_0_0 (xilinx.com:user:Image_Filter_Top:1.0 (Rev. 7)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sat Mar 27 17:35:26 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Back_End_Image_Filter_Top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Back_End_Image_Filter_Top_0_0 (xilinx.com:user:Image_Filter_Top:1.0) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Sat Mar 27 17:25:21 2021
+| Host         : LAPTOP-7SKEHFFM running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Back_End_Image_Filter_Top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Back_End_Image_Filter_Top_0_0 (xilinx.com:user:Image_Filter_Top:1.0) from (Rev. 3) to (Rev. 6)
+

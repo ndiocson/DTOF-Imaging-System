@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="Subsystem_Image_Filter_Top_0_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Image_Filter_Top_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_Input_Debounce_0_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Input_Debounce_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_Input_Debounce_1_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Input_Debounce_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_Input_Debounce_2_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Input_Debounce_2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_Input_Debounce_3_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Input_Debounce_3_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_Input_Debounce_4_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Input_Debounce_4_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_Input_Debounce_5_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Input_Debounce_5_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_Input_Debounce_6_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_Input_Debounce_6_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_PmodOLED_0_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_PmodOLED_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_clk_wiz_0_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_clk_wiz_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="Subsystem_processing_system7_0_0_synth_1" LaunchDir="D:/PERSONAL/Projects/DTOFLS/DTOFLS.runs/Subsystem_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+
